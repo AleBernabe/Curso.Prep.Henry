@@ -200,7 +200,7 @@ function doWhile(numero) {
   var num = 1
   var suma = numero
   do {
-    suma = suma + 5
+    suma = suma + 5;
     num++
   } while (num < 9);
   return suma
